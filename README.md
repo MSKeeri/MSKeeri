@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am Mohammed Shamil Keeri. I am graduate in BSc.Mathematics and i am persuing a PG diploma in AI.
+I am skilled in the Data Analytics and Data Scientist tool such as Pandas, ML, Deep Learning, Excel, Power BI, SQL,Big Data... .
+You can Contact with me in;
+Linkdlin:https://www.linkedin.com/in/mohammed-shamil-keeri-231684289/
+Email:shamilmskeeri@gmail.com
+You can also read my article through Medium
+Medium:https://medium.com/@shamilmskeeri
 
 <!--
 **MSKeeri/MSKeeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
